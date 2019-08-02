@@ -1,0 +1,39 @@
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+h1{
+    font-weight: bolder;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+.date{
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.col-1, .col-md {
+    border: solid 1px black;
+    text-align: center;
+}
+.col-2 {
+    font-size: 18px;
+}
+.chore{
+    text-align: center;
+}
+.week {
+    height: 100px;
+}
+#wed {
+    font-size: 15px;
+}
+#head {
+    text-decoration: underline;
+    text-align: center;
+}
